@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pharmlovex
+- 👀 I’m interested in Data analytics/Biotech 
+- 🌱 I’m currently learning SQL and Python 
+- 💞️ I’m looking to collaborate on Data analytics projects 
+- You can reach me on pharmifedayoojo@gmail.com
