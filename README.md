@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pharmlovex
-- 👀 I’m interested in Data analytics/Biotech 
-- 🌱 I have competences in Python, panda, numpy, seaborn, SQL, salesforce admin.
-- I am currently learning python scripts deployments with flask, react and nodejs
-- 💞️ I’m looking to collaborate on Data analytics projects 
+- 👋 Hi, I'm bio-data scientist
+- 👀 I have experience in differential expression gene analysis,  bio data wrangling and data curation for maching learning.  
+- 🌱 I have competences in R, bash scripting, Python, panda, numpy, seaborn, SQL, salesforce admin.
+- 💞️ I’m looking to collaborate on artifical intelligence projects 
 - You can reach me on pharmifedayoojo@gmail.com
