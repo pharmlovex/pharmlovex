@@ -1,5 +1,6 @@
 - 👋 Hi, I'm bio-data scientist
-- 👀 I have experience in differential expression gene analysis,  bio data wrangling and data curation for maching learning.  
-- 🌱 I have competences in R, bash scripting, Python, panda, numpy, seaborn, SQL, salesforce admin.
-- 💞️ I’m looking to collaborate on artifical intelligence projects 
-- You can reach me on pharmifedayoojo@gmail.com
+- 👀 I have experience in working on genomic and transcriptomics data to elucidata molecular mechanism underpinning diseases. 
+-     I am intrested in drug target identification towards novel drug discovery. 
+- 🌱 I have competences in R, bash scripting and Python
+- 💞️ I enjoy building bioinformatics tools to simplify workflow and save time. 
+- You can reach me on ifedayoo.ojo@gmail.com
