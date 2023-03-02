@@ -1,6 +1,6 @@
 - 👋 Hi, I'm bio-data scientist
 - 👀 I have experience in working on genomic and transcriptomics data to elucidata molecular mechanism underpinning diseases. 
--     I am intrested in drug target identification towards novel drug discovery. 
+- I am intrested in drug target identification towards novel drug discovery. 
 - 🌱 I have competences in R, bash scripting and Python
 - 💞️ I enjoy building bioinformatics tools to simplify workflow and save time. 
 - You can reach me on ifedayoo.ojo@gmail.com
