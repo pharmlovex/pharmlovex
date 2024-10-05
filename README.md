@@ -1,5 +1,5 @@
-- 👋 Hi, I'm bio-data scientist
-- 👀 I have experience in working on genomic and transcriptomics data to elucidata molecular mechanism underpinning diseases. 
+- 👋 Hi, I'm bioinformatics engineer 
+- 👀 I have experience with developement of Next Generation Sequencing (NGS) data analysis pipelines. 
 - I am intrested in drug target identification towards novel drug discovery. 
 - 🌱 I have competences in R, bash scripting and Python
 - 💞️ I enjoy building bioinformatics tools to simplify workflow and save time. 
